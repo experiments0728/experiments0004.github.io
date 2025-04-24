@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Murli Manohar"
+  name             : # "Murli Manohar"
   pronouns         : # example: "she/her"  
   bio              : "Economics Enthusiast"
   location         : "Ranchi / New Delhi"
